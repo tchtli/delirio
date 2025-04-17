@@ -1,0 +1,8 @@
+title: Pablo's Media Blog
+description: A personal space for words and visuals
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: minima
+
+plugins:
+  - jekyll-feed
