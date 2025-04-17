@@ -3,8 +3,8 @@ layout: home
 title: Welcome
 ---
 
-Hi, I’m Pablo.
+Hi, I’m tchtli.
 
-This is my personal space for sharing thoughts, visuals, and reflections.
+This is my personal space.
 
 Feel free to explore my posts and media.
