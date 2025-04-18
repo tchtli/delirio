@@ -3,7 +3,7 @@ layout: home
 title: Welcome
 ---
 
-Hi, I’m tchtli.
+Hi, I’m tchtlii.
 
 ### Explore: 
 - [about]( /about/ )
