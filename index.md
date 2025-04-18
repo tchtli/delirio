@@ -6,6 +6,6 @@ title: Welcome
 Hi, I’m tchtli.
 
 ### Explore: 
-- [about](/about/)
+- [about](/about.md/)
 - [Gallery](/gallery)
 - [Blog Posts](/)
